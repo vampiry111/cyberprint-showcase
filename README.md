@@ -1,4 +1,4 @@
-# CyberPrint 展示
+# CyberPrint
 
 - `index.html`：報價範例（手帳）
 - `crafts.html`：工藝展示（點方格看近拍、遠看、互動）
@@ -6,4 +6,4 @@
 
 網址：https://vampiry111.github.io/cyberprint-showcase/
 
-由 CyberPrint「資料與同步 → GitHub 公開 showcase 包」產生（2026/11/26 07:16:23）。
+由 CyberPrint「資料與同步 → GitHub 公開 showcase 包」產生（2026/11/26 08:30:01）。
